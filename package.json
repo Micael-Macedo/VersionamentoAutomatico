@@ -4,13 +4,16 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Micael-Macedo/VersionamentoAutomatico.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "private": true,
   "dependencies": {
