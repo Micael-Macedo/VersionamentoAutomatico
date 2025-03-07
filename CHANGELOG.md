@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.2.0...v1.3.0) (2025-03-07)
+
+
+### Features
+
+* add build npm ([2e00038](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/2e0003821cdf3d6ea44820e8996907090f7af025))
+
 # [1.2.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.1.0...v1.2.0) (2025-03-07)
 
 
