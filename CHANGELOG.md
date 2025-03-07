@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.1.0...v1.2.0) (2025-03-07)
+
+
+### Features
+
+* add npm package secret ([d0da84f](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/d0da84f744fce04a25f8353189af8c6112642202))
+
 # [1.1.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.0.0...v1.1.0) (2025-03-07)
 
 
