@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.0.0...v1.1.0) (2025-03-07)
+
+
+### Features
+
+* create basic components ([082eb0c](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/082eb0cc3efa0a96fddf2d025ed4f0bae3a8214a))
+* insert components ([fe67b1b](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/fe67b1b63a68fced91314ee332d1339fecf01361))
+
 # 1.0.0 (2025-03-07)
 
 
