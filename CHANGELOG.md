@@ -1,3 +1,16 @@
+# [1.4.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.3.0...v1.4.0) (2025-03-07)
+
+
+### Bug Fixes
+
+* add files for npm and author ([9d25aed](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/9d25aed9f05fa8fde2babfe8fb8760e5f931f024))
+* change repo to public ([342595f](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/342595fa5b83d0346fec94b516eff8fa02a59f96))
+
+
+### Features
+
+* add signatures ([3fe4c7f](https://github.com/Micael-Macedo/VersionamentoAutomatico/commit/3fe4c7fefedcbfa35cc38e5aa83f4dec59c15d69))
+
 # [1.3.0](https://github.com/Micael-Macedo/VersionamentoAutomatico/compare/v1.2.0...v1.3.0) (2025-03-07)
 
 
